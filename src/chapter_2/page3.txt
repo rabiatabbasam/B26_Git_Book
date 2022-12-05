@@ -2,3 +2,7 @@
 coming to your team mate
 
 thet fetch and pull
+
+part 2 for update
+
+they commit and push on your computer
